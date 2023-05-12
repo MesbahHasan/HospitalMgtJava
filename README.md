@@ -14,7 +14,9 @@
 - Doctor:Here you will find the Doctor List of that Hospital
 - Patient:Here you will be able to take appointment .There will be 1.Insert 2.Update 3.Delete 4.Clear options
 - Login:Here you will be able to login as user.
--
+
+
+<h1>More details to be added later </h1>
 
 
 
